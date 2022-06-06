@@ -1,0 +1,8 @@
+mfcc_features/ca4d5368_nohash_5.txt yes unknown left 0.99969 0.000288315 2.21197e-05
+mfcc_features/ca4d5368_nohash_5.txt yes unknown left 0.99969 0.000288317 2.21197e-05
+mfcc_features/ca4d5368_nohash_5.txt yes unknown left 0.99969 0.000288317 2.21197e-05
+mfcc_features/ca4d5368_nohash_5.txt yes unknown left 0.99969 0.000288317 2.21197e-05
+mfcc_features/ca4d5368_nohash_5.txt yes unknown left 0.99969 0.000288315 2.21197e-05
+mfcc_features/ca4d5368_nohash_5.txt yes unknown left 0.99969 0.000288315 2.21197e-05
+mfcc_features/ca4d5368_nohash_5.txt yes unknown left 0.99969 0.000288317 2.21198e-05
+mfcc_features/ca4d5368_nohash_5.txt yes unknown left 0.99969 0.000288317 2.21198e-05
